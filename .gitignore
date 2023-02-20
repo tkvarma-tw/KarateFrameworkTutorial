@@ -24,3 +24,6 @@ hs_err_pid*
 
 #compiled classes
 target/
+.gradle/
+.idea/
+build/
